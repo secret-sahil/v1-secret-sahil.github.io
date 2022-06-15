@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Latest iteration:
-  <a href="https://mrsahil.in/" target="_blank">v1</a>
+  <a href="https://mrsahil.in/" target="_blank">v3</a>
 </p>
 
 ![demo](https://cdn.discordapp.com/attachments/939525739995332688/939596170504855592/unknown.png)
