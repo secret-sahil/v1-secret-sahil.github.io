@@ -5,11 +5,11 @@
   mrsahil.in - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://v2.mrsahil.in" target="_blank">mrsahil.in</a> built with <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> and hosted with <a href="https://www.github.com/" target="_blank">GitHub Pages</a>
+  The first iteration of <a href="https://mrsahil.in" target="_blank">mrsahil.in</a> built with <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> and hosted with <a href="https://www.github.com/" target="_blank">GitHub Pages</a>
 </p>
 <p align="center">
   Latest iteration:
-  <a href="https://v2.mrsahil.in/" target="_blank">v1</a>
+  <a href="https://mrsahil.in/" target="_blank">v1</a>
 </p>
 
 ![demo](https://cdn.discordapp.com/attachments/939525739995332688/939596170504855592/unknown.png)
